@@ -1,0 +1,4 @@
+<ClientAndHostSettings>
+  <Client HostIP="localhost" HostPort="25565" ClientPort="25568" GamePath="D:\Libraries\Desktop\savegames 3\savegames" Username="TimonFeldmann2" Autostart="False" />
+  <Host HostPort="25565" GamePath="D:\Libraries\Desktop\savegames" MaxClients="3" UPnP="False" Autostart="False" />
+</ClientAndHostSettings>

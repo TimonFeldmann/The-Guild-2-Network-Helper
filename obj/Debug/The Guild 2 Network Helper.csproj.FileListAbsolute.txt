@@ -1,0 +1,45 @@
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.dll
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.xml
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.exe.config
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.Properties.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.clientForm.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.hostForm.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.ChoiceMessageBox.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.SplashScreenForm.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.pdb
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.exe.config
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.exe
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.pdb
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.csprojResolveAssemblyReference.cache
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.clientForm.resources
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.hostForm.resources
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.ChoiceMessageBox.resources
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.Properties.Resources.resources
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.SplashScreenForm.resources
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.csproj.GenerateResource.Cache
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.exe
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.pdb
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.dll
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.pdb
+F:\Libraries\Documents\Visual Studio 2015\Projects\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.xml
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.exe.config
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.exe
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.pdb
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.exe
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\The Guild 2 Network Helper.pdb
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.dll
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.pdb
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.xml
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.csprojResolveAssemblyReference.cache
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.clientForm.resources
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.hostForm.resources
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.ChoiceMessageBox.resources
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.Properties.Resources.resources
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The_Guild_2_Network_Helper.SplashScreenForm.resources
+D:\Libraries\Documents\More Documents\Projects\Programming\C#\Finished Projects (For Now)\The Guild Network Fix\GuildNetwork\obj\Debug\The Guild 2 Network Helper.csproj.GenerateResource.Cache

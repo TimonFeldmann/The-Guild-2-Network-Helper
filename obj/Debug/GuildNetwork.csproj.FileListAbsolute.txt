@@ -1,0 +1,15 @@
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\GuildNetwork.exe.config
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\GuildNetwork.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\GuildNetwork.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.dll
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\bin\Debug\Lidgren.Network.xml
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.ChoiceMessageBox.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.Properties.Resources.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.exe
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.pdb
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.clientForm.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.hostForm.resources
+C:\Users\Tim\Documents\Visual Studio 2015\Projects\The Guild Network Fix\GuildNetwork\obj\Debug\GuildNetwork.SplashScreenForm.resources

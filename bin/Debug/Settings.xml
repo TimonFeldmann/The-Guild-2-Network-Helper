@@ -1,0 +1,4 @@
+<ClientAndHostSettings>
+  <Client HostIP="72.184.254.214" HostPort="25565" ClientPort="25555" GamePath="C:\Program Files (x86)\Steam\steamapps\common\The Guild 2 Renaissance\savegames" Username="Agentmass" Autostart="False" />
+  <Host HostPort="25565" GamePath="C:\Program Files (x86)\Steam\steamapps\common\The Guild 2 Renaissance\savegames" MaxClients="1" UPnP="False" Autostart="False" />
+</ClientAndHostSettings>
